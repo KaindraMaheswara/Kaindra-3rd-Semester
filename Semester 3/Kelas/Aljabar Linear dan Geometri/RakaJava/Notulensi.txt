@@ -1,0 +1,13 @@
+1. SPL <- membuat solver untuk SPL untuk trivial dan parametrik
+2. Determinan
+3. Matrix Invers
+4. Interpolasi Polinomial
+5. Regresi Berganda
+6. Regresi Kuadratik Berganda <- solving dengan Gauss Jordan
+7. Bicubic
+
+Bonus
+1. Video Penjelasan Program
+2. GUI <- JavaFX
+
+Deadline : 24 Oktober 2024

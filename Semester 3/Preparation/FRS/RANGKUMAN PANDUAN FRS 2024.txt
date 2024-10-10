@@ -1,0 +1,22 @@
+RANGKUMAN PANDUAN FRS 2024
+
+MATA KULIAH WAJIB SEMESTER 3 (2023)
+IF2121	Logika Komputasional				2		
+IF2110	Algoritma & Struktur Data			4	
+IF2120	Matematika Diskrit					3		
+IF2150	Rekayasa Perangkat Lunak			4
+IF2123	Aljabar Linier dan Geometri			3		
+IF2130	Organisasi dan Arsitektur Komputer	3
+Total = 19 (+1 dari tahun lalu)
+
+MATA KULIAH PILIHAN SEMESTER 3 (POTENSIAL HANYA MENGAMBIL 2 MATKUL)
+AS2005	Astronomi dan Lingkungan			2
+KU2071	Pancasila dan Kewarganegaraan		2
+
+Pilihan DOSEN:
+AS2005 Astronomi dan Lingkungan : dr. Kiki Vierdayanti (Recommended); Ferry Mukharradi Simatupang (NOT RECOMMENDED)
+KU2071 Pancasila dan Kewarganegaraan : (1) Ade Engkus Kusnadi; (2) Siti Kusumawati Azhari (Almost Impossible); (3) Harry Nuriman; (4) Pathmi Noerhatini
+
+KESIMPULAN
+1. Total SKS yang dapat diambil (IP >= 3.5) adalah 23 SKS (19 SKS WAJIB + 4 SKS PILIHAN)
+2. Mata kuliah pilihan yang dapat diambil MAKSIMAL 2 (dua) mata kuliah dengan masing-masing 2 SKS

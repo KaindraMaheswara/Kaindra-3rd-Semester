@@ -1,0 +1,16 @@
+RPL - Notulensi Asistensi 02
+4 Oktober 2024
+
+Use Case dan Scenario Use Case
+- Deskripsi perangkat lunak, kebutuhan fungsional boleh copy paste.
+- Identifikasi actor: Pengguna hanya 1 (local) boleh copy paste.
+
+Scenario use case : Actor hanya 1
+- Identifikasi : Subjectnya system ("system menampilkan..."), tulis nomornya.
+- Diagram : Dirincikan (extend atau include)
+	Extend perpanjangan dari use case, menjelaskan lebih detail mengenai suatu step.
+	Include, use case yang akan ada tanpa perlu mendapat perlakuan tertentu.
+- Scenario Use Case : Buat suatu scenario berupa step yang dilakukan pengguna, ada aksi actor dan reaksi system.
+	Normal Scenario, expected scenario.
+	Alternative Scenario, else scenario yang dapat terjadi (invalid tidak perlu dimasukkan).
+- Traceability, use case mana yang mendukung kebutuhan fungsional yang mana. Setiap kebutuhan fungsional harus memiliki use case.
