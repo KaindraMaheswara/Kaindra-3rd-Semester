@@ -38,9 +38,18 @@ int main(){
         temp_multiplier /= 10;
     }
 
-    printf("%d", ELMT(result, 0));
-    for (i = 1; i < listLength(result); i++){
-        printf(" %d", ELMT(result, i));
+    for (i = 0; i < listLength(l); i++){
+        ELMT(l, i) = MARK;
+    }
+
+    for (i = 0; i < listLength(result); i++){
+        ELMT(l, i) = ELMT(result, i);
+    }
+
+    printf("%d", ELMT(l, 0));
+    for (i = 1; i < listLength(l); i++){
+        printf(" %d", ELMT(l, i));
     }
     printf("\n");
+    return 0;
 }

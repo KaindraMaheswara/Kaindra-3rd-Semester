@@ -1,0 +1,17 @@
+RELATIONAL LOGIC
+
+Propositional Logic vs Relational Logic
+- Constants refer to atomic propositions / logival constants.
+- Compound sentences capture relationships among propositions.
+
+How to represent general concepts?
+ex : if person I knows person II, person II knows person I
+- In Propositional Logic:
+    1. I knows II (a)
+    2. II knows I (b)
+    - a -> b
+- In relational Logic:
+    - use the function knows(a, b)
+    1. I = x
+    2. II = y
+    x,y (knows(x,y) -> knows(y,x))

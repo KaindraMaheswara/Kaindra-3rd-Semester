@@ -22,10 +22,14 @@ int main(){
     if (listLength(l) >= 1){
         i = 0;
         while (i < listLength(temporary_list)){
-            j = i + 1;
-            while (j <= listLength(temporary_list)){
+            j = 0;
+            while (j < listLength(temporary_list)){
+                if (j == i){
+                    break;
+                }
                 if (ELMT(temporary_list, j) == ELMT(temporary_list, i)){
-                    deleteAt(&temporary_list, &ELMT(temporary_list, j), j);
+                    deleteAt(&temporary_list, &ELMT(temporary_list, i), i);
+                    i -= 1;
                 }
                 j += 1;
             }
